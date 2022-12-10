@@ -10,5 +10,5 @@ public class  AreaOfCircle
        System.out.println("Radius Of Circle is "+r); 
        System.out.println("Area Of Cirlce is "+a);
      
-     }
+     } //changes are made
 }                                                                                              
